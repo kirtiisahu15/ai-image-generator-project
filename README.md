@@ -49,7 +49,7 @@ ai-image-generator-project/
 
 1. Clone the repository:
 
-git clone https://github.com/kirtisahu82/ai-image-generator-project.git
+git clone https://github.com/kirtiisahu15/ai-image-generator-project.git
 
 2. Go to project folder:
 
